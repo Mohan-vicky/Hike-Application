@@ -1,0 +1,12 @@
+Hike Application
+-------------------
+
+
+A Profile page 
+
+Contact Details
+
+Chat Menu
+
+Voice calls & Call history
+
