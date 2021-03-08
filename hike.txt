@@ -10,3 +10,6 @@ Chat Menu
 
 Voice calls & Call history
 
+Video Call feature is Added
+
+
